@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aman1sr
-- 👀 I’m interested in Chess, TT
-- 🌱 I’m currently learning ...>> Android dev
+- 👋 Hi, I’m @aman1sr aka Pahadi sher
+- 👀 
+- 🌱 I’m currently enjoying ...>> Android dev
 
 
 <!---
