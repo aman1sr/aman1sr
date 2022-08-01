@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aman1sr aka Pahadi sher
+- 👋 Hi, I’m पहाड़ी शेर 
 - 👀 
-- 🌱 I’m currently enjoying ...>> Android dev
+- 🌱 currently enjoying ...>> Android 
 
 
 <!---
