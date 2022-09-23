@@ -1,6 +1,6 @@
 - 👋 Hi, I’m droid_aman
 - 👀 consistency is the key 
-- 🌱 currently enjoying ...>> Android 
+- 🌱 currently focussed on KOTLIN & Android. 
 
 
 <!---
