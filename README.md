@@ -1,5 +1,5 @@
-- 👋 Hi, I’m पहाड़ी शेर 
-- 👀 
+- 👋 Hi, I’m droid_aman
+- 👀 consistency is the key 
 - 🌱 currently enjoying ...>> Android 
 
 
