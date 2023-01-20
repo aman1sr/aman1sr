@@ -1,7 +1,6 @@
 - 👋 Hi, I’m droid_aman
 - 👀 consistency is the key 
-- 🌱 currently focussed on KOTLIN & ANDROID.
-- 🏃‍♂️💨💨 working on Marathon
+- 🌱 currently focussed on KOTLIN & ANDROID
 
 
 <!---
