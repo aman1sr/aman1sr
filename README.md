@@ -1,6 +1,7 @@
-- 👋 Hi, I’m droid_aman
-- 👀 consistency is the key 
-- 🌱 currently focussed on KOTLIN & ANDROID
+- *Recipes of making an Art :*
+- 1st -> give it a Scheduled Time(t/24 hrs) in a day
+- 2nd -> give your 100% effort(state of flow) in the present moment 
+- 3rd -> be CONSISTENT
 
 
 <!---
